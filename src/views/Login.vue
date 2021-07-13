@@ -1,15 +1,15 @@
 <template>
   <div>
-    <signup-form tool-id="nkmbbm" />
+    <login-form tool-id="alnkkd" />
   </div>
 </template>
 
 <script>
-import { SignupForm } from "@userfront/vue";
+import { LoginForm } from "@userfront/vue";
 
 export default {
   components: {
-    SignupForm,
+    LoginForm,
   },
 };
 </script>
